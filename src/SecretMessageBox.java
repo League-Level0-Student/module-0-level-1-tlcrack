@@ -20,7 +20,7 @@ public class SecretMessageBox {
 		
 	
 	// 1. Set the passcode in a String variable
-	String passcoded = "www.Andrew.org";
+	String passcoded = "www.AndrewSux.org";
 	// 2. Using a pop-up, ask for a secret message and store it in a variable
 	String g = JOptionPane.showInputDialog("--SECRET MESSAGE REQUIRED--");
 	//3.
