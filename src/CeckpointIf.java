@@ -21,9 +21,10 @@ public static void main(String[] args) {
 	JOptionPane.showMessageDialog(null, "Don't you wish you were young!");
 			}
 	
-			
-			
-			
+			String ani = JOptionPane.showInputDialog("What's your favorite animal?");
+			if(ani.equals("dog")) {
+			JOptionPane.showMessageDialog(null, "Dogs go woof");
+			}
 			
 	
 	
